@@ -15,7 +15,7 @@
   "scripts": {
     "build": "react-scripts-ts build",
     "start": "react-scripts-ts start",
-    "start:prod": "npm run build && node src/server/server.js",
+    "start:prod": "node src/server/server.js",
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject"
   },

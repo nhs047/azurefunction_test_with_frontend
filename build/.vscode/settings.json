@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1479ac6f-e5d1-4ed8-a7d7-8becd186aeca/resourceGroups/serverlesspoc/providers/Microsoft.Web/sites/serverlesspocapp",
+    "appService.deploySubpath": ""
+}
